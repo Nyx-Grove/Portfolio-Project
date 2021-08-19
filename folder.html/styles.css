@@ -1,8 +1,3 @@
-#skills{
-    text-align: center;
-    padding-left: 50%;
-    
-}
 
 body{
     background-color: #ecd7b6;
@@ -23,6 +18,15 @@ img{
     padding: 10px;
 }
 
+.skill{
+    border-color: #ecd7b6;
+    border-style:dotted;
+}
+#skills{
+    text-align: center;
+    padding-right: 70px;
+}
+
 th,td,tr{
     border: 2px solid #238505 ;
     padding: 20px;
@@ -31,9 +35,15 @@ th,td,tr{
   
 }
 
+
 .jumbotron{
     background-color: rgba(4, 19, 1, 0.2);
     text-align: center;
+}
+
+.skills{
+    padding-left: 30%;
+    padding-bottom: 5%;
 }
 #me{
     width: 150px;
@@ -83,3 +93,5 @@ a:hover, a:active {
   #projects{
     text-align: center;
   }
+
+
