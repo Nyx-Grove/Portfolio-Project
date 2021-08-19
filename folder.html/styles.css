@@ -1,0 +1,77 @@
+#skills{
+    text-align: center;
+    padding-left: 50%;
+    
+}
+
+body{
+    background-color: #ecd7b6;
+    font-family: 'Bad Script', cursive;
+    font-size: larger;
+}
+
+img{
+    border-radius: 15%;
+    width: 350px;
+    height: 250px;
+}
+
+.intro{
+    text-align: center;
+}
+.container{
+    padding: 10px;
+}
+
+th,td,tr{
+    border: 2px solid #238505 ;
+    padding: 20px;
+    border-style:groove;
+
+  
+}
+
+.jumbotron{
+    background-color: rgba(4, 19, 1, 0.2);
+    text-align: center;
+}
+#me{
+    width: 150px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+#aboutme{
+    padding-left: 30%;
+}
+
+a:link, a:visited {
+    background-color: #238505 ;
+    text-decoration: none;
+    color: seashell;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+  }
+.button{
+    background-color: #238505 ;
+}
+
+a:hover, a:active {
+    background-color: #154905;
+  }
+
+  form{
+      text-align: center;
+      background-color: #238505 ;
+      color: seashell;
+      padding: 10px;
+      padding-top: 50px;
+      border-radius: 5%;
+      border: 2px solid black;
+  }
+
+  #textboxid{
+      width: 255px;
+      height: 150px;
+  }
