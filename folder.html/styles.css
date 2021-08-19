@@ -75,3 +75,11 @@ a:hover, a:active {
       width: 255px;
       height: 150px;
   }
+
+  #qualifications{
+      padding-left: 25%;
+  }
+
+  #projects{
+    text-align: center;
+  }
