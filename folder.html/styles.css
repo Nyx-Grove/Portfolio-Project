@@ -65,6 +65,7 @@ a:link, a:visited {
   }
 .button{
     background-color: #238505 ;
+    margin: 10%;
 }
 
 a:hover, a:active {
